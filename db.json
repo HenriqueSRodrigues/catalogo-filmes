@@ -109,6 +109,86 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
+    },
+    {
+      "titulo": "Pulp Fiction: Tempo de Violência",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR0,0,67,98_AL_.jpg",
+      "dtLancamento": "1995-03-03T03:00:00.000Z",
+      "descricao": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "nota": 8.9,
+      "urlIMDb": "https://www.imdb.com/title/tt0110912/?ref_=tt_mv_close",
+      "genero": "Drama",
+      "id": 13
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-01T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Ação",
+      "id": 14
+    },
+    {
+      "titulo": "aa",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-02T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Romance",
+      "id": 15
+    },
+    {
+      "titulo": "aaa",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-09T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Aventura",
+      "id": 16
+    },
+    {
+      "titulo": "aa",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-01T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Aventura",
+      "id": 17
+    },
+    {
+      "titulo": "aa",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-01T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Romance",
+      "id": 18
+    },
+    {
+      "titulo": "aa",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-01T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Romance",
+      "id": 19
+    },
+    {
+      "titulo": "sss",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-01T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Aventura",
+      "id": 20
     }
   ]
 }
