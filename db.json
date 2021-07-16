@@ -111,24 +111,14 @@
       "id": 11
     },
     {
-      "titulo": "Pulp Fiction: Tempo de Violência",
-      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR0,0,67,98_AL_.jpg",
-      "dtLancamento": "1995-03-03T03:00:00.000Z",
-      "descricao": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
-      "nota": 8.9,
-      "urlIMDb": "https://www.imdb.com/title/tt0110912/?ref_=tt_mv_close",
-      "genero": "Drama",
-      "id": 13
-    },
-    {
-      "titulo": "Cisne Negro",
-      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_.jpg",
-      "dtLancamento": "2011-02-04T02:00:00.000Z",
-      "descricao": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake\".\n",
-      "nota": 8,
-      "urlIMDb": "https://www.imdb.com/title/tt0947798/",
-      "genero": "Drama",
-      "id": 14
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2021-07-01T03:00:00.000Z",
+      "descricao": "",
+      "nota": 0,
+      "urlIMDb": "",
+      "genero": "Ação",
+      "id": 12
     }
   ]
 }
