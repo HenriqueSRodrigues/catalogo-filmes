@@ -5,7 +5,7 @@
     {{ filme.dtLancamento | date: "dd/MM/yyyy" }}</mat-list-item
   >
   <mat-list-item> Gênero: {{ filme.genero }} </mat-list-item>
-  <mat-list-item> Descrição: {{ filme.descricao }} </mat-list-item>
+  <mat-list-item class="quebrar-linha"> Descrição: {{ filme.descricao }} </mat-list-item>
   <mat-list-item>
     Nota: <a [href]="filme.urlIMDb" target="blank">{{ filme.nota }}</a>
   </mat-list-item>
@@ -14,7 +14,7 @@
 
 <mat-card>
 <mat-card-actions>
-  <button type="submit" color="accent" mat-raised-button>Editar</button>
+  <button type="submit" color="accent" mat-raised-button (click)="editar()">Editar</button>
   <button type="reset" color="warn" mat-raised-button (click)="excluir()">Excluir</button>
 </mat-card-actions>
 </mat-card>

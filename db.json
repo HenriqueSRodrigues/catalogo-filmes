@@ -81,14 +81,24 @@
       "genero": "Comédia"
     },
     {
-      "id": 9,
-      "titulo": "John Wick 3: Parabellum",
+      "titulo": "John Wick 3: Parabellum ",
       "urlFoto": "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
       "dtLancamento": "2019-05-16T03:00:00.000Z",
       "descricao": "John Wick is on the run after killing a member of the international assassin's guild, and with a $14 million price tag on his head, he is the target of hit men and women everywhere.",
       "nota": 7.5,
       "urlIMDb": "https://www.imdb.com/title/tt6146586/",
-      "genero": "Ação"
+      "genero": "Ação",
+      "id": 9
+    },
+    {
+      "titulo": "Luca",
+      "urlFoto": "https://johto.legiaodosherois.com.br/wp-content/uploads/2021/02/legiao_MQDI7q2vlzNj-scaled.jpg",
+      "dtLancamento": "2021-06-18T03:00:00.000Z",
+      "descricao": "On the Italian Riviera, an unlikely but strong friendship grows between a human being and a sea monster disguised as a human.",
+      "nota": 7.5,
+      "urlIMDb": "https://www.imdb.com/title/tt12801262/",
+      "genero": "Aventura",
+      "id": 10
     }
   ]
 }
